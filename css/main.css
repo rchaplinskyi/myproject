@@ -17,4 +17,5 @@ body {
 }
 header {
 	background: purple;
+	height: 100vh;
 }
