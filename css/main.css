@@ -8,3 +8,14 @@ body {
 	max-width: 1250px;
 	margin: 0 auto;
 }
+.slider {
+   width: 100%;
+   position: absolute;
+   top: 50px;
+   left: 50px;
+   right:50px ;
+}
+header {
+	background: purple;
+	height: 100vh;
+}
